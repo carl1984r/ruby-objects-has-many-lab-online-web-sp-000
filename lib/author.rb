@@ -18,6 +18,9 @@ def add_post_by_title(title)
   @posts << post
 end
 
+def self.post_count
+end
+
 def posts
   @posts
 end
