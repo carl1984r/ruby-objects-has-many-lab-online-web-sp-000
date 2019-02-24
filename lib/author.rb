@@ -19,7 +19,7 @@ def add_post_by_title(title)
 end
 
 def self.post_count
-  Song.class.all.length
+  Post.all.length
 end
 
 def posts
