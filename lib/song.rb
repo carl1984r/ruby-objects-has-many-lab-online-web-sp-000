@@ -20,4 +20,5 @@ class Song
     else
       nil
     end
+  end
 end
